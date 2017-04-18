@@ -6,6 +6,7 @@
 
 invisible(
     lapply(c(
+            "Rcmdr",   
             "glmnet",
             "bestglm",
             "DMwR",
