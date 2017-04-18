@@ -1,6 +1,6 @@
 # List of R packages
 
-The following R packages are recommended to be installed locally just before Mariánská statistical workshop arrival.
+The following R packages are recommended to be installed locally just before Mariánská statistical workshop arrival:
 
 {glmnet,
 bestglm,
@@ -23,4 +23,4 @@ sfsmisc,
 reshape,
 arm,
 visreg,
-interplot}
+interplot}.
